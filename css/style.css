@@ -8,3 +8,7 @@ footer {
     padding-top: 100px;
     margin: 50px 0;
 }
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
